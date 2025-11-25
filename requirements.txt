@@ -1,9 +1,1 @@
-fastapi
-uvicorn
-python-multipart
-yt-dlp
-spotipy
-pydantic
-pydub
-starlette
-
+beautifulsoup4
